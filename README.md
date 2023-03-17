@@ -5,6 +5,7 @@
 Python project scaffold, which runs GitHub Actions and tests the sample code for:
 - Python 3.8 (AWS)
 - Python 3.9 (Azure)
-
+- Python 3.10 (GCP)
+ 
 Follows this project (part of Duke Coursera Course: Cloud Computing for Data): https://github.com/noahgift/github-actions-pytest
 
