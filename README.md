@@ -1,5 +1,4 @@
 [![Python application test with Github Actions](https://github.com/temfugit/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/temfugit/scaffold/actions/workflows/main.yml)
-
 [![Python 3.9](https://github.com/temfugit/scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/temfugit/scaffold/actions/workflows/azure.yml)
 
 # scaffold
